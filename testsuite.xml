@@ -1,0 +1,32 @@
+<suite name="Suite">
+    <test name="Automation">
+        <classes>
+            <class name="Testcases.BookDetails"/>
+        </classes>
+    </test>
+    <test name="clickOrderFinish">
+        <classes>
+            <class name="Testcases.ClickOrder_ClickOrderFinish"/>
+        </classes>
+    </test>
+    <test name="SelectAuthor">
+        <classes>
+            <class name="Testcases.SelectAuthor"/>
+        </classes>
+    </test>
+    <test name="ScrollWriterGoTONextPage">
+        <classes>
+            <class name="Testcases.SelectWriter_Scroll_GotoNextPage"/>
+        </classes>
+    </test>
+    <test name="Automation.logout">
+        <classes>
+            <class name="Testcases.TestLogOut"/>
+        </classes>
+    </test>
+    <test name="Automation.visitSiteandLogin">
+        <classes>
+            <class name="Testcases.TestVisitSiteAndLogin"/>
+        </classes>
+    </test>
+</suite>
