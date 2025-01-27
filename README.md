@@ -1,4 +1,5 @@
 ﻿# jenkins_prac
 
 ##Test Result
-![image](https://github.com/user-attachments/assets/9c0529a6-b139-40bb-ae0b-f072e9008904)
+![image](https://github.com/user-attachments/assets/086301ec-cd59-41b5-89ac-331b4434b1ab)
+
